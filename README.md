@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ali Dogan big-children
 - 👀 I’m interested in Cloud and Analytics
 - 🌱 I’m currently learning Analytics tools to implement in Cloud
-- 💞️ I’m looking to collaborate with evryone
+- 💞️ I’m looking to collaborate with everyone
 - 📫 How to reach me README.md
 
 <!---
