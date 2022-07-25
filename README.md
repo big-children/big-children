@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ali Dogan big-children
-- 👀 I’m interested in Cloud and Analytics
-- 🌱 I’m currently learning Analytics tools to implement in Cloud
+- 👀 I’m interested in Cloud and Data
+- 🌱 I’m currently learning Data science(lifelongLearner) tools to implement in Cloud
 - 💞️ I’m looking to collaborate with everyone
 - 📫 How to reach me README.md
 
