@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ali Dogan 
 - 👀 I’m interested in Cloud and Data
-- 🌱 I’m currently learning Data science(lifelongLearner) tools to implement in Cloud
+- 🌱 I’m currently working with Data integration tools to implement in Cloud and On prem
 - 💞️ I’m looking to collaborate with everyone
 - 📫 How to reach me README.md
 
